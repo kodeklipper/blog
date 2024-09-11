@@ -14,7 +14,7 @@ A Django-based blogging platform for creating, managing, and publishing blog pos
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/duke2sd/django-blog.git
+    git clone https://github.com/kodeklipper/django-blog.git
     ```
 
 2. **Navigate to the project directory:**
